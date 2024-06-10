@@ -1,0 +1,15 @@
+﻿  AIbase.cpp
+C:\Users\aleyn\OneDrive\Рабочий стол\fnaf\fnaf\GUI.h(2,10): error C1083: Не удается открыть файл включение: SFML/Graphics.hpp: No such file or directory,
+  Aktep.cpp
+C:\Users\aleyn\OneDrive\Рабочий стол\fnaf\fnaf\GUI.h(2,10): error C1083: Не удается открыть файл включение: SFML/Graphics.hpp: No such file or directory,
+  Camera.cpp
+C:\Users\aleyn\OneDrive\Рабочий стол\fnaf\fnaf\GUI.h(2,10): error C1083: Не удается открыть файл включение: SFML/Graphics.hpp: No such file or directory,
+  fnaf.cpp
+C:\Users\aleyn\OneDrive\Рабочий стол\fnaf\fnaf\fnaf.cpp(1,10): error C1083: Не удается открыть файл включение: SFML/Graphics.hpp: No such file or directory,
+  Game.cpp
+C:\Users\aleyn\OneDrive\Рабочий стол\fnaf\fnaf\GUI.h(2,10): error C1083: Не удается открыть файл включение: SFML/Graphics.hpp: No such file or directory,
+  Pomehi.cpp
+C:\Users\aleyn\OneDrive\Рабочий стол\fnaf\fnaf\Pomehi.h(2,10): error C1083: Не удается открыть файл включение: SFML/Graphics.hpp: No such file or directory,
+  Usya.cpp
+C:\Users\aleyn\OneDrive\Рабочий стол\fnaf\fnaf\GUI.h(2,10): error C1083: Не удается открыть файл включение: SFML/Graphics.hpp: No such file or directory,
+  Создание кода...

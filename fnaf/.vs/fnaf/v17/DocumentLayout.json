@@ -1,0 +1,278 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aleyn\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\fnaf\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FD32CB83-B3AA-4417-9D25-FD2C6252DACC}|fnaf\\fnaf.vcxproj|C:\\Users\\aleyn\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\fnaf\\fnaf\\Screamer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FD32CB83-B3AA-4417-9D25-FD2C6252DACC}|fnaf\\fnaf.vcxproj|solutionrelative:fnaf\\Screamer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD32CB83-B3AA-4417-9D25-FD2C6252DACC}|fnaf\\fnaf.vcxproj|C:\\Users\\aleyn\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\fnaf\\fnaf\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FD32CB83-B3AA-4417-9D25-FD2C6252DACC}|fnaf\\fnaf.vcxproj|solutionrelative:fnaf\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD32CB83-B3AA-4417-9D25-FD2C6252DACC}|fnaf\\fnaf.vcxproj|C:\\Users\\aleyn\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\fnaf\\fnaf\\Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FD32CB83-B3AA-4417-9D25-FD2C6252DACC}|fnaf\\fnaf.vcxproj|solutionrelative:fnaf\\Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD32CB83-B3AA-4417-9D25-FD2C6252DACC}|fnaf\\fnaf.vcxproj|C:\\Users\\aleyn\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\fnaf\\fnaf\\Camera.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FD32CB83-B3AA-4417-9D25-FD2C6252DACC}|fnaf\\fnaf.vcxproj|solutionrelative:fnaf\\Camera.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD32CB83-B3AA-4417-9D25-FD2C6252DACC}|fnaf\\fnaf.vcxproj|C:\\Users\\aleyn\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\fnaf\\fnaf\\Aktep.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FD32CB83-B3AA-4417-9D25-FD2C6252DACC}|fnaf\\fnaf.vcxproj|solutionrelative:fnaf\\Aktep.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD32CB83-B3AA-4417-9D25-FD2C6252DACC}|fnaf\\fnaf.vcxproj|C:\\Users\\aleyn\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\fnaf\\fnaf\\Camera.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FD32CB83-B3AA-4417-9D25-FD2C6252DACC}|fnaf\\fnaf.vcxproj|solutionrelative:fnaf\\Camera.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD32CB83-B3AA-4417-9D25-FD2C6252DACC}|fnaf\\fnaf.vcxproj|C:\\Users\\aleyn\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\fnaf\\fnaf\\AIbase.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FD32CB83-B3AA-4417-9D25-FD2C6252DACC}|fnaf\\fnaf.vcxproj|solutionrelative:fnaf\\AIbase.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD32CB83-B3AA-4417-9D25-FD2C6252DACC}|fnaf\\fnaf.vcxproj|C:\\Users\\aleyn\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\fnaf\\fnaf\\fnaf.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FD32CB83-B3AA-4417-9D25-FD2C6252DACC}|fnaf\\fnaf.vcxproj|solutionrelative:fnaf\\fnaf.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD32CB83-B3AA-4417-9D25-FD2C6252DACC}|fnaf\\fnaf.vcxproj|C:\\Users\\aleyn\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\fnaf\\fnaf\\Usya.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FD32CB83-B3AA-4417-9D25-FD2C6252DACC}|fnaf\\fnaf.vcxproj|solutionrelative:fnaf\\Usya.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD32CB83-B3AA-4417-9D25-FD2C6252DACC}|fnaf\\fnaf.vcxproj|C:\\Users\\aleyn\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\fnaf\\fnaf\\Aktep.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FD32CB83-B3AA-4417-9D25-FD2C6252DACC}|fnaf\\fnaf.vcxproj|solutionrelative:fnaf\\Aktep.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD32CB83-B3AA-4417-9D25-FD2C6252DACC}|fnaf\\fnaf.vcxproj|C:\\Users\\aleyn\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\fnaf\\fnaf\\Win.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FD32CB83-B3AA-4417-9D25-FD2C6252DACC}|fnaf\\fnaf.vcxproj|solutionrelative:fnaf\\Win.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD32CB83-B3AA-4417-9D25-FD2C6252DACC}|fnaf\\fnaf.vcxproj|C:\\Users\\aleyn\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\fnaf\\fnaf\\Usya.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FD32CB83-B3AA-4417-9D25-FD2C6252DACC}|fnaf\\fnaf.vcxproj|solutionrelative:fnaf\\Usya.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD32CB83-B3AA-4417-9D25-FD2C6252DACC}|fnaf\\fnaf.vcxproj|C:\\Users\\aleyn\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\fnaf\\fnaf\\AIbase.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FD32CB83-B3AA-4417-9D25-FD2C6252DACC}|fnaf\\fnaf.vcxproj|solutionrelative:fnaf\\AIbase.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD32CB83-B3AA-4417-9D25-FD2C6252DACC}|fnaf\\fnaf.vcxproj|C:\\Users\\aleyn\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\fnaf\\fnaf\\Pomehi.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FD32CB83-B3AA-4417-9D25-FD2C6252DACC}|fnaf\\fnaf.vcxproj|solutionrelative:fnaf\\Pomehi.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD32CB83-B3AA-4417-9D25-FD2C6252DACC}|fnaf\\fnaf.vcxproj|C:\\Users\\aleyn\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\fnaf\\fnaf\\GUI.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FD32CB83-B3AA-4417-9D25-FD2C6252DACC}|fnaf\\fnaf.vcxproj|solutionrelative:fnaf\\GUI.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD32CB83-B3AA-4417-9D25-FD2C6252DACC}|fnaf\\fnaf.vcxproj|C:\\Users\\aleyn\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\fnaf\\fnaf\\Pomehi.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FD32CB83-B3AA-4417-9D25-FD2C6252DACC}|fnaf\\fnaf.vcxproj|solutionrelative:fnaf\\Pomehi.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 153,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Game.cpp",
+              "DocumentMoniker": "C:\\Users\\aleyn\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\fnaf\\fnaf\\Game.cpp",
+              "RelativeDocumentMoniker": "fnaf\\Game.cpp",
+              "ToolTip": "C:\\Users\\aleyn\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\fnaf\\fnaf\\Game.cpp",
+              "RelativeToolTip": "fnaf\\Game.cpp",
+              "ViewState": "AQIAADgAAAAAAAAAAAAAAEYAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-10T21:47:50.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Aktep.h",
+              "DocumentMoniker": "C:\\Users\\aleyn\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\fnaf\\fnaf\\Aktep.h",
+              "RelativeDocumentMoniker": "fnaf\\Aktep.h",
+              "ToolTip": "C:\\Users\\aleyn\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\fnaf\\fnaf\\Aktep.h",
+              "RelativeToolTip": "fnaf\\Aktep.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-10T21:47:50.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AIbase.h",
+              "DocumentMoniker": "C:\\Users\\aleyn\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\fnaf\\fnaf\\AIbase.h",
+              "RelativeDocumentMoniker": "fnaf\\AIbase.h",
+              "ToolTip": "C:\\Users\\aleyn\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\fnaf\\fnaf\\AIbase.h",
+              "RelativeToolTip": "fnaf\\AIbase.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-10T21:47:50.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Game.h",
+              "DocumentMoniker": "C:\\Users\\aleyn\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\fnaf\\fnaf\\Game.h",
+              "RelativeDocumentMoniker": "fnaf\\Game.h",
+              "ToolTip": "C:\\Users\\aleyn\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\fnaf\\fnaf\\Game.h",
+              "RelativeToolTip": "fnaf\\Game.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-10T21:47:50.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Camera.cpp",
+              "DocumentMoniker": "C:\\Users\\aleyn\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\fnaf\\fnaf\\Camera.cpp",
+              "RelativeDocumentMoniker": "fnaf\\Camera.cpp",
+              "ToolTip": "C:\\Users\\aleyn\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\fnaf\\fnaf\\Camera.cpp",
+              "RelativeToolTip": "fnaf\\Camera.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAB0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-10T21:47:50.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Usya.h",
+              "DocumentMoniker": "C:\\Users\\aleyn\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\fnaf\\fnaf\\Usya.h",
+              "RelativeDocumentMoniker": "fnaf\\Usya.h",
+              "ToolTip": "C:\\Users\\aleyn\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\fnaf\\fnaf\\Usya.h",
+              "RelativeToolTip": "fnaf\\Usya.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-10T21:47:50.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Screamer.h",
+              "DocumentMoniker": "C:\\Users\\aleyn\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\fnaf\\fnaf\\Screamer.h",
+              "RelativeDocumentMoniker": "fnaf\\Screamer.h",
+              "ToolTip": "C:\\Users\\aleyn\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\fnaf\\fnaf\\Screamer.h",
+              "RelativeToolTip": "fnaf\\Screamer.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-10T21:47:50.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Camera.h",
+              "DocumentMoniker": "C:\\Users\\aleyn\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\fnaf\\fnaf\\Camera.h",
+              "RelativeDocumentMoniker": "fnaf\\Camera.h",
+              "ToolTip": "C:\\Users\\aleyn\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\fnaf\\fnaf\\Camera.h",
+              "RelativeToolTip": "fnaf\\Camera.h",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAAEoAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-10T21:47:50.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AIbase.cpp",
+              "DocumentMoniker": "C:\\Users\\aleyn\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\fnaf\\fnaf\\AIbase.cpp",
+              "RelativeDocumentMoniker": "fnaf\\AIbase.cpp",
+              "ToolTip": "C:\\Users\\aleyn\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\fnaf\\fnaf\\AIbase.cpp",
+              "RelativeToolTip": "fnaf\\AIbase.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-10T21:47:50.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "fnaf.cpp",
+              "DocumentMoniker": "C:\\Users\\aleyn\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\fnaf\\fnaf\\fnaf.cpp",
+              "RelativeDocumentMoniker": "fnaf\\fnaf.cpp",
+              "ToolTip": "C:\\Users\\aleyn\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\fnaf\\fnaf\\fnaf.cpp",
+              "RelativeToolTip": "fnaf\\fnaf.cpp",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAD0AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-10T21:47:50.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Usya.cpp",
+              "DocumentMoniker": "C:\\Users\\aleyn\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\fnaf\\fnaf\\Usya.cpp",
+              "RelativeDocumentMoniker": "fnaf\\Usya.cpp",
+              "ToolTip": "C:\\Users\\aleyn\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\fnaf\\fnaf\\Usya.cpp",
+              "RelativeToolTip": "fnaf\\Usya.cpp",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAA4AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-10T21:47:50.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Aktep.cpp",
+              "DocumentMoniker": "C:\\Users\\aleyn\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\fnaf\\fnaf\\Aktep.cpp",
+              "RelativeDocumentMoniker": "fnaf\\Aktep.cpp",
+              "ToolTip": "C:\\Users\\aleyn\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\fnaf\\fnaf\\Aktep.cpp",
+              "RelativeToolTip": "fnaf\\Aktep.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEUAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-10T21:47:50.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Win.h",
+              "DocumentMoniker": "C:\\Users\\aleyn\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\fnaf\\fnaf\\Win.h",
+              "RelativeDocumentMoniker": "fnaf\\Win.h",
+              "ToolTip": "C:\\Users\\aleyn\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\fnaf\\fnaf\\Win.h",
+              "RelativeToolTip": "fnaf\\Win.h",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACMAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-10T21:47:50.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Pomehi.cpp",
+              "DocumentMoniker": "C:\\Users\\aleyn\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\fnaf\\fnaf\\Pomehi.cpp",
+              "RelativeDocumentMoniker": "fnaf\\Pomehi.cpp",
+              "ToolTip": "C:\\Users\\aleyn\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\fnaf\\fnaf\\Pomehi.cpp",
+              "RelativeToolTip": "fnaf\\Pomehi.cpp",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAUwA8AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-10T21:47:50.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GUI.h",
+              "DocumentMoniker": "C:\\Users\\aleyn\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\fnaf\\fnaf\\GUI.h",
+              "RelativeDocumentMoniker": "fnaf\\GUI.h",
+              "ToolTip": "C:\\Users\\aleyn\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\fnaf\\fnaf\\GUI.h",
+              "RelativeToolTip": "fnaf\\GUI.h",
+              "ViewState": "AQIAABMAAAAAAAAAAAASwC8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-10T21:47:50.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Pomehi.h",
+              "DocumentMoniker": "C:\\Users\\aleyn\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\fnaf\\fnaf\\Pomehi.h",
+              "RelativeDocumentMoniker": "fnaf\\Pomehi.h",
+              "ToolTip": "C:\\Users\\aleyn\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\fnaf\\fnaf\\Pomehi.h",
+              "RelativeToolTip": "fnaf\\Pomehi.h",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAABQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-10T21:47:50.636Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
